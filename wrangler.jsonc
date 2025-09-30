@@ -90,7 +90,8 @@
 			},
             {
                 "class_name": "UserAppSandboxService",
-                "name": "Sandbox"
+                "name": "Sandbox",
+				"container": true
             },
             {
                 "class_name": "DORateLimitStore",
